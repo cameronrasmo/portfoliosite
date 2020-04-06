@@ -29,10 +29,20 @@ function Sidebar() {
           </li>
         </ul>
         <div id='sidebar-socials'>
-          <a id='linkedin' href='https://www.linkedin.com/in/cameronrasmo/'>
+          <a
+            id='linkedin'
+            href='https://www.linkedin.com/in/cameronrasmo/'
+            target='_blank'
+            rel='noopener noreferrer'
+          >
             <img src='./img/linkedin.png' alt='LinkedIn' />
           </a>
-          <a id='github' href='https://www.github.com/cameronrasmo'>
+          <a
+            id='github'
+            href='https://www.github.com/cameronrasmo'
+            target='_blank'
+            rel='noopener noreferrer'
+          >
             <img src='./img/github.png' alt='github' />
           </a>
         </div>

@@ -1,0 +1,34 @@
+{
+    "projects": [
+        {
+            "name": "name badge",
+            "madeWith": "HTML, CSS, JS, React",
+            "description": "input collection application, managing state and creating a badge with values from state",
+            "imgUrl": "./img/project/name-badge.png",
+            "bgColor": "#7dffec",
+            "githubUrl": "https://github.com/cameronrasmo/name-badge",
+            "siteUrl": "https://cr-name-badge.now.sh/",
+            "next": "goodcookie"
+        },
+        {
+            "name": "goodcookie",
+            "madeWith": "HTML, CSS, Vanilla JS",
+            "description": "designed and styled an attractive, simple interface for a cookie-accepting API site",
+            "imgUrl": "./img/project/goodcookie.png",
+            "bgColor": "#9F8AFF",
+            "githubUrl": "https://github.com/nullxix/goodcookie-site",
+            "siteUrl": "https://nick.pink/goodcookie",
+            "next": "ugli"
+        },
+        {
+            "name": "ugli",
+            "madeWith": "HTML, CSS, JS, React",
+            "description": "directory that allows for user to add and edit a title, description, and image url for something they think is ugly (funny prompt) managed with React context",
+            "imgUrl": "./img/project/ugli.png",
+            "bgColor": "#D872E8",
+            "githubUrl": "https://github.com/cameronrasmo/ugli-repo",
+            "siteUrl": "https://cr-ugli.now.sh/",
+            "next": "about"
+        }
+    ]
+}
