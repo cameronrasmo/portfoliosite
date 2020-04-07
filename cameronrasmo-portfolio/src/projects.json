@@ -8,7 +8,8 @@
             "bgColor": "#7dffec",
             "githubUrl": "https://github.com/cameronrasmo/name-badge",
             "siteUrl": "https://cr-name-badge.now.sh/",
-            "next": "goodcookie"
+            "next": "goodcookie",
+            "id": 1
         },
         {
             "name": "goodcookie",
@@ -18,7 +19,8 @@
             "bgColor": "#9F8AFF",
             "githubUrl": "https://github.com/nullxix/goodcookie-site",
             "siteUrl": "https://nick.pink/goodcookie",
-            "next": "ugli"
+            "next": "ugli",
+            "id": 2
         },
         {
             "name": "ugli",
@@ -28,7 +30,8 @@
             "bgColor": "#D872E8",
             "githubUrl": "https://github.com/cameronrasmo/ugli-repo",
             "siteUrl": "https://cr-ugli.now.sh/",
-            "next": "about"
+            "next": "about",
+            "id": 3
         }
     ]
 }

@@ -2,7 +2,7 @@ import React from "react";
 
 function ProjectSection(props) {
     return (
-        <div className='container project'>
+        <div className='container project' id={`project-container-${props.id}`}>
             <div
                 className='project-info'
                 style={{ backgroundColor: props.bgColor }}

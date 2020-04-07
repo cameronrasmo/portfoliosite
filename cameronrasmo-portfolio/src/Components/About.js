@@ -14,7 +14,7 @@ function About() {
     }
 
     return (
-        <div className='container project'>
+        <div className='container project' id='about-container'>
             <div
                 className='project-info'
                 style={{ backgroundColor: "#7dffec" }}
