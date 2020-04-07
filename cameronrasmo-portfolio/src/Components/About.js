@@ -22,7 +22,9 @@ function About() {
                 <h1 className='project-title'>about me</h1>
                 <h6 className='project-description'>
                     i’m a fullstack JS development student living in Salt Lake
-                    City, Utah <br /> proficiency with node.js, react, JS ES6
+                    City, Utah
+                    <br />
+                    <br /> proficiency in node.js, react, JS ES6
                 </h6>
                 <br />
                 <h6 className='project-description'>
