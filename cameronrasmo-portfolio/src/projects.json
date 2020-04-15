@@ -1,15 +1,26 @@
 {
     "projects": [
         {
+            "name": "keder?",
+            "madeWith": "React, Styled Components, Axios, React Router",
+            "description": "web app for boredom, with attractive, responsive design. allows for user to select most important category, and the app will send out an API request with specified parameters.",
+            "imgUrl": "./img/project/keder.png",
+            "bgColor": "#7dffec",
+            "githubUrl": "https://github.com/cameronrasmo/keder-repo",
+            "siteUrl": "https://keder.now.sh/",
+            "next": "name badge",
+            "id": 1
+        },
+        {
             "name": "name badge",
             "madeWith": "HTML, CSS, JS, React",
             "description": "input collection application, managing state and creating a badge with values from state",
             "imgUrl": "./img/project/name-badge.png",
-            "bgColor": "#7dffec",
+            "bgColor": "#D872E8",
             "githubUrl": "https://github.com/cameronrasmo/name-badge",
             "siteUrl": "https://cr-name-badge.now.sh/",
             "next": "goodcookie",
-            "id": 1
+            "id": 2
         },
         {
             "name": "goodcookie",
@@ -20,7 +31,7 @@
             "githubUrl": "https://github.com/nullxix/goodcookie-site",
             "siteUrl": "https://nick.pink/goodcookie",
             "next": "ugli",
-            "id": 2
+            "id": 3
         },
         {
             "name": "ugli",
@@ -31,7 +42,7 @@
             "githubUrl": "https://github.com/cameronrasmo/ugli-repo",
             "siteUrl": "https://cr-ugli.now.sh/",
             "next": "about",
-            "id": 3
+            "id": 4
         }
     ]
 }
