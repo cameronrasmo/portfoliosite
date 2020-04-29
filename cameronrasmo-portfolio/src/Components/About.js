@@ -24,7 +24,7 @@ function About() {
                     i’m a fullstack JS development student living in Salt Lake
                     City, Utah
                     <br />
-                    <br /> proficiency in node.js, react, JS ES6
+                    <br /> proficiency in node, react, mongoDB, express
                 </h6>
                 <br />
                 <h6 className='project-description'>
