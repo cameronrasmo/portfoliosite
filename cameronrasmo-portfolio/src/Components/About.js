@@ -52,12 +52,18 @@ function About() {
                     id='portrait-image'
                     src='./img/project/portrait.png'
                     alt=''
+                    style={{
+                        transitionTimingFunction: "cubic-bezier(0, 0, 0.05, 1)",
+                    }}
                     ref={portraitRef}
                 />
                 <img
                     id='kitten-image'
                     src='./img/project/kitten.png'
                     alt=''
+                    style={{
+                        transitionTimingFunction: "cubic-bezier(0, 0, 0.05, 1)",
+                    }}
                     ref={kittenRef}
                 />
             </div>
