@@ -55,16 +55,17 @@ body {
 }
 
 .project-title {
-    font-size: 80px;
+    font-size: 60px;
+    padding-right: 30px;
 }
 
 .project-description {
     width: 70%;
 
-    font-size: 20px;
+    font-size: 18px;
     font-weight: 100;
 
-    margin-bottom: 50px;
+    margin-bottom: 30px;
 }
 
 .project-buttons {
@@ -125,14 +126,14 @@ body {
     left: 340px;
 }
 .next > img {
-    width: 40px;
+    width: 30px;
 
     position: relative;
     left: 60px;
     bottom: 0px;
 }
 .next > p {
-    font-size: 20px;
+    font-size: 17px;
     position: relative;
     left: 85px;
     display: block;
@@ -678,9 +679,9 @@ body {
     }
 }
 
-@media (max-height: 850px) {
+@media (max-height: 900px) {
     .project-image {
-        flex: 0.5;
+        flex: 0.7;
     }
 
     .project-info {
@@ -689,7 +690,7 @@ body {
     }
 
     .project-title {
-        font-size: 50px;
+        font-size: 55px;
     }
 
     .project-description {

@@ -21,10 +21,11 @@ function About() {
             >
                 <h1 className='project-title'>about me</h1>
                 <h6 className='project-description'>
-                    i’m a fullstack JS development student living in Salt Lake
-                    City, Utah
+                    i’m a MERN JS development student living in Salt Lake City,
+                    Utah
                     <br />
-                    <br /> proficiency in <strong>node, react, mongoDB</strong>
+                    <br /> proficiency in{" "}
+                    <strong>node, react/react native, mongoDB, express</strong>
                 </h6>
                 <br />
                 <h6 className='project-description'>

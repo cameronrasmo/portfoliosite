@@ -1,46 +1,46 @@
 {
     "projects": [
         {
-            "name": "keder?",
+            "name": "rock the vote.",
+            "madeWith": "React, Styled Components, Express, MongoDB, bcrypt",
+            "description": "a web app that allows for users to make posts and comments focused on political discourse, with full CRUD functionality and authentication encryption.",
+            "imgUrl": "./img/project/rtv.png",
+            "bgColor": "#7dffec",
+            "githubUrl": "https://github.com/cameronrasmo/rtv-repo",
+            "siteUrl": "https://wow-my-vote-is-rocked.herokuapp.com/",
+            "next": "topical roulette",
+            "id": 1
+        },
+        {
+            "name": "Topical Roulette",
+            "madeWith": "React, Styled Components, Express, MongoDB, JWT",
+            "description": "a group project, building a topic based chat room, with team built API.  ",
+            "imgUrl": "./img/project/topicalRoulette.png",
+            "bgColor": "#D872E8",
+            "githubUrl": "https://github.com/cameronrasmo/topical-twitter-repo",
+            "siteUrl": "https://topical-roulette-app.herokuapp.com/",
+            "next": "keder?",
+            "id": 2
+        },
+        {
+            "name": "Keder?",
             "madeWith": "React, Styled Components, Axios, React Router",
-            "description": "web app for boredom, with attractive, responsive design. allows for user to select most important category, and the app will send out an API request with specified parameters.",
+            "description": "Keder? (Bored? in Danish), is a web app for boredom, with attractive, responsive design. allows for user to select most important category, and the app will send out an API request with specified parameters.",
             "imgUrl": "./img/project/keder.png",
             "bgColor": "#7dffec",
             "githubUrl": "https://github.com/cameronrasmo/keder-repo",
             "siteUrl": "https://cr-keder.now.sh/",
-            "next": "name badge",
-            "id": 1
-        },
-        {
-            "name": "name badge",
-            "madeWith": "HTML, CSS, JS, React",
-            "description": "input collection application, managing state and creating a badge with values from state",
-            "imgUrl": "./img/project/name-badge.png",
-            "bgColor": "#D872E8",
-            "githubUrl": "https://github.com/cameronrasmo/name-badge",
-            "siteUrl": "https://cr-name-badge.now.sh/",
             "next": "goodcookie",
-            "id": 2
+            "id": 3
         },
         {
             "name": "goodcookie",
-            "madeWith": "HTML, CSS, Vanilla JS",
-            "description": "designed and styled an attractive, simple interface for a cookie-accepting API site",
+            "madeWith": "HTML, CSS, JS",
+            "description": "designed and styled an attractive, simple interface for a cookie-accepting site.",
             "imgUrl": "./img/project/goodcookie.png",
             "bgColor": "#9F8AFF",
             "githubUrl": "https://github.com/nullxix/goodcookie-site",
             "siteUrl": "https://nick.pink/goodcookie",
-            "next": "ugli",
-            "id": 3
-        },
-        {
-            "name": "ugli",
-            "madeWith": "HTML, CSS, JS, React",
-            "description": "directory that allows for user to add and edit a title, description, and image url for something they think is ugly (funny prompt) managed with React context",
-            "imgUrl": "./img/project/ugli.png",
-            "bgColor": "#D872E8",
-            "githubUrl": "https://github.com/cameronrasmo/ugli-repo",
-            "siteUrl": "https://cr-ugli.now.sh/",
             "next": "about",
             "id": 4
         }
