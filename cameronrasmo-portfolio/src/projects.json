@@ -1,6 +1,17 @@
 {
     "projects": [
         {
+            "name": "Hustl",
+            "madeWith": "React, Styled Components, Express, MongoDB, JWT",
+            "description": "a simple project tracker, similar in style to Trello. Features attractive design, with backlog, in-progress, and completed sections.",
+            "imgUrl": "./img/project/hustl.png",
+            "bgColor": "#D872E8",
+            "githubUrl": "https://github.com/cameronrasmo/hustl-repo",
+            "siteUrl": "https://hustl-app.herokuapp.com/",
+            "next": "rock the vote.",
+            "id": 1
+        },
+        {
             "name": "rock the vote.",
             "madeWith": "React, Styled Components, Express, MongoDB, bcrypt",
             "description": "a web app that allows for users to make posts and comments focused on political discourse, with full CRUD functionality and authentication encryption.",
@@ -8,18 +19,7 @@
             "bgColor": "#7dffec",
             "githubUrl": "https://github.com/cameronrasmo/rtv-repo",
             "siteUrl": "https://wow-my-vote-is-rocked.herokuapp.com/",
-            "next": "topical roulette",
-            "id": 1
-        },
-        {
-            "name": "Topical Roulette",
-            "madeWith": "React, Styled Components, Express, MongoDB, JWT",
-            "description": "a group project, building a topic based chat room, with team built API.  ",
-            "imgUrl": "./img/project/topicalRoulette.png",
-            "bgColor": "#D872E8",
-            "githubUrl": "https://github.com/cameronrasmo/topical-twitter-repo",
-            "siteUrl": "https://topical-roulette-app.herokuapp.com/",
-            "next": "keder?",
+            "next": "Keder?",
             "id": 2
         },
         {
